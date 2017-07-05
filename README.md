@@ -4,7 +4,7 @@ json
 <span style="color: green"> Some green text </span
 html
    // code for coloring
-<font color="green"> Some green text </font>
+<font color="blue"> Some green text </font>
 ```js
    // code for coloring
 ```
