@@ -1,4 +1,5 @@
 # hello-world
+this file has been started to practice some basic functions I have learned through my engineering classes
 // This function checks whether a number is even
 def f(x):
   // compute x modulo 2 and check whether it is zero
