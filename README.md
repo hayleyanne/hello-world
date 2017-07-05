@@ -13,7 +13,7 @@ html
 ```
 // etc.
 ```diff
-+1 this will be highlighted in green
++1 this will be highlighted in blue
 - this will be highlighted in red
 ++ this will be highlighted in blue
 ```
