@@ -1,5 +1,6 @@
 # hello-world
 >
+//encased in this readme is an informational on how to color code words in your codes
   <text font-size="16" x="10" y="20">
     <tspan fill="red">Hello</tspan>,
     <tspan fill="green">world</tspan>!
