@@ -1,10 +1,10 @@
 # hello-world
-```json
+json
    // code for coloring
 <span style="color: green"> Some green text </span
-```html
+html
    // code for coloring
-```
+<font color="green"> Some green text </font>
 ```js
    // code for coloring
 ```
