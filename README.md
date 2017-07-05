@@ -1,4 +1,17 @@
 # hello-world
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.
 this file has been started to practice some basic functions I have learned through my engineering classes
 // This function checks whether a number is even
 def f(x):
@@ -9,3 +22,9 @@ def f(x):
   else:
     // the number is odd
     return False
+def g(x):
+  //compute x for any given value 
+  if modulo(x, a>0) == TRUE
+  else:
+  0
+  
