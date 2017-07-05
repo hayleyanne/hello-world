@@ -15,7 +15,7 @@ html
 ```diff
 +1 this will be highlighted in green
 - this will be highlighted in red
-= this will be highlighted in blue
++2 this will be highlighted in blue
 ```
 //this file has been started to practice some basic functions I have learned through my engineering classes
 // This function checks whether a number is even
